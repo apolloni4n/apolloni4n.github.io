@@ -10,7 +10,7 @@ image:
   path: /assets/img/277437664_732087978172039_2585794420213341788_n.jpg
   width: 800
   height: 500
-  alt: Responsive rendering of Chirpy theme on multiple devices.
+  alt:  
 ---
 
 This post is within a serie of my music inspirations, the music that penetrates my very soul always, never disappoints, I keep discovering new styles and genres for ecstasy and eargasm, but for meaning too.
