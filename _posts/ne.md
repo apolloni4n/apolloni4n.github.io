@@ -25,4 +25,5 @@ How enduring, how we need durability. The sky before sunrise is soaked with ligh
 
 ### Warning:
 As this is my first post, thi blog is dedicated for my demons, my talks always in my head, they never stop, this is a journal, maybe nobody will ever read them, it's a daily journal, I will post whenver the hell I feel like it, it's about philosophy, music, poems, entertainement, and HACKING... Anything... and Nothing!
+This is modern age Phrack magazine but a dark one.
 #### Peace Be within you! Be careful of false beliefs and get hydrated and loved!
