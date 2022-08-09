@@ -22,3 +22,7 @@ This post is within a serie of my music inspirations, the music that penetrates 
 ## Dawn
 
 How enduring, how we need durability. The sky before sunrise is soaked with light. Rosy colour tints buildings, bridges, and the Seine. I was here when she with whom I walk wasn't born yet, and the cities on a distant plain stood intact, before they rose in the air with the dust of sepulchral brick, and the people who lived there didn't know. Only this moment, at dawn, is real to me. The bygone lives are like my own past life, uncertain. I cast a spell on the city, asking it to last
+
+### Warning:
+As this is my first post, thi blog is dedicated for my demons, my talks always in my head, they never stop, this is a journal, maybe nobody will ever read them, it's a daily journal, I will post whenver the hell I feel like it, it's about philosophy, music, poems, entertainement, and HACKING... Anything... and Nothing!
+#### Peace Be within you! Be careful of false beliefs and get hydrated and loved!
