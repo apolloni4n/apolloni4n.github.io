@@ -7,7 +7,7 @@ tags: [films]
 math: true
 mermaid: true
 image:
-  path: /assets/img/ingmar.jpg
+  path: assets/img/ingmar.jpg
   width: 500
   height: 300
 ---
