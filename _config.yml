@@ -23,7 +23,7 @@ timezone: Asia/Shanghai
 
 title: Apollon                          # the main title
 
-tagline: The Greatest philosoph alive   # it will display as the sub-title
+tagline: The Greatest philosoph alive, I created this blog because I wanted to do it for a very long time, in order to fight my selfish self that refuses to examine any new idea or even think, my dogmatic mind that refuses to learn anything new, I'm using it mainly to practice my english and expression  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
