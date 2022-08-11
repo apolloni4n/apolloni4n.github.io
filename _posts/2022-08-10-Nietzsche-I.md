@@ -7,7 +7,7 @@ tags: [music]
 math: true
 mermaid: true
 image:
-  path: assets/img/nietzsche-gun.jpg
+  path: /assets/img/nietzsche-gun.jpg
   width: 500
   height: 300
 ---
