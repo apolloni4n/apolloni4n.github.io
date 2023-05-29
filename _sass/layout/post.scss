@@ -15,6 +15,11 @@
   position: relative;
   border-color: var(--btn-border-color);
 }
+@mixin dot($pl: 0.25rem, $pr: 0.25rem) {
+  content: "\2023";
+  padding-left: $pl;
+  padding-right: $pr;
+}
 
 @mixin dot($pl: 0.25rem, $pr: 0.25rem) {
   content: "\2022";
