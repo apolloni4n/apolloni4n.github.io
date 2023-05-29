@@ -37,7 +37,7 @@
         {% capture replacement %}<meta property="{{ prop }}" content="{{ site.img_cdn }}{% endcapture %}
       {% else %}
         <!-- `site.img_cdn` is a local file path -->
-        {% capture target %}<meta property="{{ prop }}" content="{{ site.url }}{{ site.baseurl }}{% endcapture %}
+        {% capture target %}<meta property="{{ prop }}" content="{{ site.url }}https://apolloni4n.github.io/{% endcapture %}
         {% assign replacement = target | append: site.img_cdn %}
       {% endif %}
 
