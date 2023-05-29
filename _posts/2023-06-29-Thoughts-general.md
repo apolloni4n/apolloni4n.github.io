@@ -14,5 +14,5 @@ image:
 
 This post is within a serie of my most random Thoughts, that I get on calm nights, in train, or in roads...
 ## Titles
----Philosophy of mind
+---Thoughts General
 # 
