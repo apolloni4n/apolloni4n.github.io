@@ -1,7 +1,7 @@
 ---
 title: Thoughts General
 author: apollon
-date: 2023-06-29 23:47:00 +0800
+date: 2023-05-29 23:47:00 +0800
 categories: [poetry, meaning, soul, spirituality, mindfullness]
 tags: [meaning]
 math: true
