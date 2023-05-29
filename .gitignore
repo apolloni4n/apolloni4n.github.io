@@ -8,7 +8,8 @@
 !.commitlintrc.json
 !.versionrc.json
 
- 
+# bundler cache
+_site
 vendor
 
 # rubygem

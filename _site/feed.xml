@@ -1,42 +1,48 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/</id>
-  <title>Chirpy</title>
+  <id>/apolloni4n.github.io/</id>
+  <title>Apollon</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-08-07T20:09:04+08:00</updated>
+  <updated>2023-05-30T07:53:43+08:00</updated>
   <author>
-    <name>your_full_name</name>
-    <uri>http://localhost:4000/</uri>
+    <name>apolloni4n</name>
+    <uri>/apolloni4n.github.io/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="/apolloni4n.github.io/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="http://localhost:4000/"/>
+    href="/apolloni4n.github.io/"/>
   <generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator>
-  <rights> © 2022 your_full_name </rights>
-  <icon>/assets/img/favicons/favicon.ico</icon>
-  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+  <rights> © 2023 apolloni4n </rights>
+  <icon>https://apolloni4n.github.io/assets/img/favicons/favicon.ico</icon>
+  <logo>https://apolloni4n.github.io/assets/img/favicons/favicon-96x96.png</logo>
 
 
   
   <entry>
-    <title>Enable Google Page Views</title>
-    <link href="http://localhost:4000/posts/enable-google-pv/" rel="alternate" type="text/html" title="Enable Google Page Views" />
-    <published>2021-01-04T07:32:00+08:00</published>
+    <title>Thoughts General</title>
+    <link href="/apolloni4n.github.io/posts/Thoughts-general/" rel="alternate" type="text/html" title="Thoughts General" />
+    <published>2023-05-29T23:47:00+08:00</published>
   
-    <updated>2022-03-17T02:05:45+08:00</updated>
+    <updated>2023-05-29T23:47:00+08:00</updated>
   
-    <id>http://localhost:4000/posts/enable-google-pv/</id>
-    <content src="http://localhost:4000/posts/enable-google-pv/" />
+    <id>/apolloni4n.github.io/posts/Thoughts-general/</id>
+    <content src="/apolloni4n.github.io/posts/Thoughts-general/" />
     <author>
-      <name>sille_bille</name>
+      <name>apollon</name>
     </author>
 
   
     
-    <category term="Blogging" />
+    <category term="poetry" />
     
-    <category term="Tutorial" />
+    <category term="meaning" />
+    
+    <category term="soul" />
+    
+    <category term="spirituality" />
+    
+    <category term="mindfullness" />
     
   
 
@@ -48,11 +54,11 @@
 
 
 
-      This post is to enable Page Views on the Chirpy theme based blog that you just built. This requires technical knowledge and it’s recommended to keep the google_analytics.pv.* empty unless you have a good reason. If your website has low traffic, the page views count would discourage you to write more blogs. With that said, let’s start with the setup.
+      This post is within a serie of my most random Thoughts, that I get on calm nights, in train, or in roads…
+Titles
+—Thoughts General
+#
 
-Set up Google Analytics
-
-Create GA account a...
     </summary>
   
 
@@ -60,23 +66,25 @@ Create GA account a...
 
   
   <entry>
-    <title>Customize the Favicon</title>
-    <link href="http://localhost:4000/posts/customize-the-favicon/" rel="alternate" type="text/html" title="Customize the Favicon" />
-    <published>2019-08-11T00:34:00+08:00</published>
+    <title>I have too many words I can't assemble for you</title>
+    <link href="/apolloni4n.github.io/posts/Poetry/" rel="alternate" type="text/html" title="I have too many words I can't assemble for you" />
+    <published>2022-08-11T09:56:00+08:00</published>
   
-    <updated>2022-03-17T02:05:45+08:00</updated>
+    <updated>2022-08-12T05:28:26+08:00</updated>
   
-    <id>http://localhost:4000/posts/customize-the-favicon/</id>
-    <content src="http://localhost:4000/posts/customize-the-favicon/" />
+    <id>/apolloni4n.github.io/posts/Poetry/</id>
+    <content src="/apolloni4n.github.io/posts/Poetry/" />
     <author>
-      <name>cotes</name>
+      <name>apollon</name>
     </author>
 
   
     
-    <category term="Blogging" />
+    <category term="poetry" />
     
-    <category term="Tutorial" />
+    <category term="soul" />
+    
+    <category term="art" />
     
   
 
@@ -88,11 +96,18 @@ Create GA account a...
 
 
 
-      The favicons of Chirpy are placed in the directory assets/img/favicons/. You may want to replace them with your own. The following sections will guide you to create and replace the default favicons.
+      This post is within a serie of my poetic inspirations
+Titles
+—If there is any God
 
-Generate the favicon
-
-Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and then go to the online tool Real Favicon Generator and click the button Select your Favicon image ...
+Love
+I d just want u to know, crystallized FLOOD
+How u were beautifully made by god
+I believe he has taken every single moment to draw
+You, As if he s gonna die tomorrow
+With love and enthusiasm he made your eyes
+And with an angelic voice he filled your throat
+I hope with a whiter color than white itself he paint...
     </summary>
   
 
@@ -100,23 +115,29 @@ Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and th
 
   
   <entry>
-    <title>Getting Started</title>
-    <link href="http://localhost:4000/posts/getting-started/" rel="alternate" type="text/html" title="Getting Started" />
-    <published>2019-08-09T20:55:00+08:00</published>
+    <title>Thoughts I</title>
+    <link href="/apolloni4n.github.io/posts/Music-and-poems-I-copy-2/" rel="alternate" type="text/html" title="Thoughts I" />
+    <published>2022-08-11T09:56:00+08:00</published>
   
-    <updated>2022-03-17T02:05:45+08:00</updated>
+    <updated>2022-08-11T09:56:00+08:00</updated>
   
-    <id>http://localhost:4000/posts/getting-started/</id>
-    <content src="http://localhost:4000/posts/getting-started/" />
+    <id>/apolloni4n.github.io/posts/Music-and-poems-I-copy-2/</id>
+    <content src="/apolloni4n.github.io/posts/Music-and-poems-I-copy-2/" />
     <author>
-      <name>cotes</name>
+      <name>apollon</name>
     </author>
 
   
     
-    <category term="Blogging" />
+    <category term="Thoughts" />
     
-    <category term="Tutorial" />
+    <category term="meaning" />
+    
+    <category term="soul" />
+    
+    <category term="spirituality" />
+    
+    <category term="love" />
     
   
 
@@ -128,19 +149,8 @@ Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and th
 
 
 
-      Prerequisites
-
-Follow the instructions in the Jekyll Docs to complete the installation of Ruby, RubyGems, Jekyll, and Bundler. In addition, Git is also required to be installed.
-
-Installation
-
-Creating a New Site
-
-There are two ways to create a new repository for this theme:
-
-
-  Using the Chirpy Starter - Easy to upgrade, isolates irrelevant project files so you can focus on writing.
-  Forking ...
+      Thoughts
+-I listened to a podcast of “L’heure philo” and they’re like walking is good for thinking and most Greek philosophs were doing it inattentivally and they don’t mention it but they do it for a long time or hours, Nietzsche thinks that any idea should be out with a physical effort (I don’t know how to say it in english but i feel it, Actually any idea from Nietzsche I feel it rather than...
     </summary>
   
 
@@ -148,23 +158,27 @@ There are two ways to create a new repository for this theme:
 
   
   <entry>
-    <title>Writing a New Post</title>
-    <link href="http://localhost:4000/posts/write-a-new-post/" rel="alternate" type="text/html" title="Writing a New Post" />
-    <published>2019-08-08T14:10:00+08:00</published>
+    <title>Ingmar Bergmann</title>
+    <link href="/apolloni4n.github.io/posts/Ingmar-Bergmann/" rel="alternate" type="text/html" title="Ingmar Bergmann" />
+    <published>2022-08-11T09:56:00+08:00</published>
   
-    <updated>2022-07-02T18:16:02+08:00</updated>
+    <updated>2022-08-12T05:28:26+08:00</updated>
   
-    <id>http://localhost:4000/posts/write-a-new-post/</id>
-    <content src="http://localhost:4000/posts/write-a-new-post/" />
+    <id>/apolloni4n.github.io/posts/Ingmar-Bergmann/</id>
+    <content src="/apolloni4n.github.io/posts/Ingmar-Bergmann/" />
     <author>
-      <name>cotes</name>
+      <name>apollon</name>
     </author>
 
   
     
-    <category term="Blogging" />
+    <category term="films" />
     
-    <category term="Tutorial" />
+    <category term="cinema" />
+    
+    <category term="soul" />
+    
+    <category term="art" />
     
   
 
@@ -176,11 +190,17 @@ There are two ways to create a new repository for this theme:
 
 
 
-      This post will guide you how to write a post on Chirpy theme. Even if you have previous experience with Jekyll, this article is worth reading, because many features require specific variables to be set.
+      This post is within a serie of my poetic cinema inspirations
+Titles
+—Ingmar Bergmann (July 14, 1918 — July 30, 2007)
 
-Naming and Path
+Film
+“No form of art goes beyond ordinary consciousness as film does, straight to our emotions, deep into the twilight room of the soul.”
 
-Create a new file named YYYY-MM-DD-TITLE.EXTENSION and put it in the _posts of the root directory. Please note that the EXTENSION must be one of md and markdown. If you want to...
+— Ingmar Bergman
+
+Peace Be within you! Be careful of false beliefs and get hydrated and loved!
+
     </summary>
   
 
@@ -188,23 +208,21 @@ Create a new file named YYYY-MM-DD-TITLE.EXTENSION and put it in the _posts of t
 
   
   <entry>
-    <title>Text and Typography</title>
-    <link href="http://localhost:4000/posts/text-and-typography/" rel="alternate" type="text/html" title="Text and Typography" />
-    <published>2019-08-08T11:33:00+08:00</published>
+    <title>Nietzsche I</title>
+    <link href="/apolloni4n.github.io/posts/Nietzsche-I/" rel="alternate" type="text/html" title="Nietzsche I" />
+    <published>2022-08-10T09:56:00+08:00</published>
   
-    <updated>2022-08-07T05:48:21+08:00</updated>
+    <updated>2022-08-12T05:28:26+08:00</updated>
   
-    <id>http://localhost:4000/posts/text-and-typography/</id>
-    <content src="http://localhost:4000/posts/text-and-typography/" />
+    <id>/apolloni4n.github.io/posts/Nietzsche-I/</id>
+    <content src="/apolloni4n.github.io/posts/Nietzsche-I/" />
     <author>
-      <name>cotes</name>
+      <name>apollon</name>
     </author>
 
   
     
-    <category term="Blogging" />
-    
-    <category term="Demo" />
+    <category term="Philosophy" />
     
   
 
@@ -216,31 +234,12 @@ Create a new file named YYYY-MM-DD-TITLE.EXTENSION and put it in the _posts of t
 
 
 
-      This post is to show Markdown syntax rendering on Chirpy, you can also use it as an example of writing. Now, let’s start looking at text and typography.
+      This post is within a serie of my philosophical inspirations…
 
 Titles
-—e
-H1 - heading
-
-H2 - heading
-
-H3 - heading
-
-H4 - heading
-
-
-
-Paragraph
-
-I wandered lonely as a cloud
-
-That floats on high o’er vales and hills,
-
-When all at once I saw a crowd,
-
-A host, of golden daffodils;
-
-Beside the lake, beneath the...
+— A philosoph who refuses to be a considered as one. The great man of all time
+Why I love Nietzsche
+the reason I love Nietzsche (While I disagree with some of what he has to say), is because a philosopher’s power lies in the consistency of their voice. No other philosopher has so consistently, made me question the very founda...
     </summary>
   
 

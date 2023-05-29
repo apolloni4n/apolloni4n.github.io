@@ -1,6 +1,6 @@
-self.importScripts('/assets/js/data/swcache.js');
+self.importScripts('/apolloni4n.github.io/assets/js/data/swcache.js');
 
-const cacheName = 'chirpy-20220807.200905';
+const cacheName = 'chirpy-20230530.075345';
 
 function verifyDomain(url) {
   for (const domain of allowedDomains) {
